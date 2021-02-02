@@ -66,7 +66,7 @@ Nix is:
     ```
 *   **purpose-built**. Nix only exists to be the language for Nix, the package
     manager. While people have occasionally used it for other use-cases, it is
-    explicitly not a general-purpose language.
+    explicitly nOT a GEneRaL-pURpOse LaNgUaGe.
 
 # Language constructs
 
